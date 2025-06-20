@@ -1,10 +1,9 @@
 - 👋 Hi, I’m ABHISHEK KUSHWAHA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Full Stack Development along With learning Some System Programming with the help of Emebedded Programming.
+- 💞️ I’m looking for Internship as a Full Stack Enginner.
 
-<h2 align="left">Hi 👋! My name is Abhishek Kumar and I'm a Embedded Software Developer, from National Institute of Electronics and Information Technology</h2>
+<h2 align="left">Hi 👋! My name is Abhishek Kumar and I'm a Embedded Software Developer, from National Institute of Electronics and Information Technology,Aurangabad, India</h2>
 
 ###
 
