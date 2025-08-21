@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kushwaha</h1>
-<h3 align="center">🚀 Embedded Software Developer | Aspiring Full Stack Engineer | Passionate Problem Solver</h3>
+<h3 align="center">Embedded Software Developer | Aspiring Full Stack Engineer | Passionate Problem Solver</h3>
 
 ---
 
