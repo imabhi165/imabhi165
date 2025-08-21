@@ -13,7 +13,8 @@
 
 ### 📊 GitHub Stats & Activity  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imabhi165&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="<img src="https://github-readme-stats.vercel.app/api?username=imabhi165&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&v=1" height="150" alt="stats graph" />
+ />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imabhi165&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
