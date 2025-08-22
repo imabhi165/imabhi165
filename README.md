@@ -71,10 +71,19 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imabhi165&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=imabhi165&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhi165&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imabhi165&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+[![Currency Converter](https://github-readme-stats.vercel.app/api/pin/?username=imabhi165&repo=Currency-Converter&theme=tokyonight&hide_border=true)](https://github.com/imabhi165/Currency-Converter)
+
+</div>
 
 
 <h2 align="center">🤝 Connect With Me</h2>
