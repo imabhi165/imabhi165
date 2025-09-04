@@ -14,7 +14,7 @@
 <h2 align="center">About Me 👨‍💻</h2>
 
 <div align="center">
-  <p>Full-Stack Developer and Gen AI enthusiast passionate about creating innovative solutions</p>
+  <p>Full-Stack Developer and Gen AI enthusiast</p>
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 <br>
 
-<div align="left" style="width: 50%;">
+<div align="left" style="width: 60%;">
   <p>🔭 Currently building <strong>scalable Full-Stack applications</strong></p>
   <p>🌱 Exploring <strong>React Native, Next.js, and Machine Learning</strong></p>
   <p>🤝 Open to collaborate on <strong>innovative React Native and AI projects</strong></p>
