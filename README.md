@@ -23,7 +23,7 @@
 
 <br>
 
-<div align="left" style="width: 60%;">
+<div align="left" style="width: 50%;">
   <p>🔭 Currently building <strong>scalable Full-Stack applications</strong></p>
   <p>🌱 Exploring <strong>React Native, Next.js, and Machine Learning</strong></p>
   <p>🤝 Open to collaborate on <strong>innovative React Native and AI projects</strong></p>
