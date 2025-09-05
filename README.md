@@ -25,9 +25,9 @@
 
 <div align="left" style="width: 50%;">
   <p>🔭 Currently building <strong>scalable Full-Stack applications</strong></p>
-  <p>🌱 Exploring <strong>React Native, Next.js, and Machine Learning</strong></p>
+  <p>🌱 Exploring <strong>Next.js, and Machine Learning</strong></p>
   <p>🤝 Open to collaborate on <strong>innovative React Native and AI projects</strong></p>
-  <p>💬 Let's discuss <strong>Python, JavaScript, PostgreSQL, and AI</strong></p>
+  <p>💬 Let's discuss <strong>C/C++ , Python JavaScript, PostgreSQL, and AI</strong></p>
   <p>⚡ Fun fact: <strong>I turn coffee into code!</strong></p>
 </div>
 
