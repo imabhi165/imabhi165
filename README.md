@@ -100,8 +100,8 @@
 
 <div align="center">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imabhi165&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhi165&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=imabhi165&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhi165&token=${{ secrets.GITHUB_TOKEN }}&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=imabhi165&token=${{ secrets.GITHUB_TOKEN }}&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 ## Featured Projects
@@ -110,17 +110,17 @@
 
   <!-- Currency Converter -->
   <a href="https://github.com/imabhi165/Currency-Converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imabhi165&repo=Currency-Converter&theme=tokyonight&hide_border=true" alt="Currency Converter" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imabhi165&token=${{ secrets.GITHUB_TOKEN }}&repo=Currency-Converter&theme=tokyonight&hide_border=true" alt="Currency Converter" />
   </a>
   
   <!-- Programs -->
   <a href="https://github.com/imabhi165/Programs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imabhi165&repo=Programs&theme=tokyonight&hide_border=true" alt="Programs" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imabhi165&token=${{ secrets.GITHUB_TOKEN }}&repo=Programs&theme=tokyonight&hide_border=true" alt="Programs" />
   </a>
 
   <!-- js-hindi -->
   <a href="https://github.com/imabhi165/js-hindi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imabhi165&repo=js-hindi&theme=tokyonight&hide_border=true" alt="js-hindi" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imabhi165&token=${{ secrets.GITHUB_TOKEN }}&repo=js-hindi&theme=tokyonight&hide_border=true" alt="js-hindi" />
   </a>
 
 </div>
