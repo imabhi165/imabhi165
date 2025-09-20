@@ -127,9 +127,9 @@
 
 ##  Open Source & Community
 
-- 🌟 Excited to contribute to automation projects
-- 💡 Interested in collaborating with engineers and communities focused on cloud, DevOps, SRE, and AI
-- 🤗 Let's build scalable, secure, and innovative solutions together!
+-  Excited to contribute to automation projects
+-  Interested in collaborating with engineers and communities focused on cloud, DevOps, SRE, and AI
+-  Let's build scalable, secure, and innovative solutions together!
 
 <h2 align="center">🤝 Connect With Me</h2>
 
