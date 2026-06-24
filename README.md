@@ -114,33 +114,6 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=imabhi165&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
 </div>
 
-## Featured Projects
-
-<div align="center">
-
-  <!-- Currency Converter -->
-  <a href="https://github.com/imabhi165/Currency-Converter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imabhi165&repo=Currency-Converter&theme=tokyonight&hide_border=true" alt="Currency Converter" />
-  </a>
-  
-  <!-- Programs -->
-  <a href="https://github.com/imabhi165/Programs">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imabhi165&repo=Programs&theme=tokyonight&hide_border=true" alt="Programs" />
-  </a>
-
-  <!-- js-hindi -->
-  <a href="https://github.com/imabhi165/js-hindi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=imabhi165&repo=js-hindi&theme=tokyonight&hide_border=true" alt="js-hindi" />
-  </a>
-
-</div>
-
-##  Open Source & Community
-
--  Excited to contribute to automation projects
--  Interested in collaborating with engineers and communities focused on cloud, DevOps, SRE, and AI
--  Let's build scalable, secure, and innovative solutions together!
-
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
