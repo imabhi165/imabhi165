@@ -62,24 +62,8 @@
 - Develop a high-performance Download Manager inspired by IDM
 - Contribute to impactful open-source projects
 - Strengthen expertise in Distributed Systems and Backend Engineering
-- Transition into a Product-Based Software Company
 
-### 💬 Ask Me About
-
-- Embedded C
-- Linux
-- C#
-- Windows Forms
-- Docker
-- Git
-- Networking
-- WebSockets
-- TLS / SSL
-- Static Analysis
-- MISRA C
-- Java
-- System Design
-
+- 
 ### ⚡ Fun Fact
 
 I enjoy understanding **how software works internally**—from operating systems and networking to scalable architectures—and I love turning that knowledge into real-world projects.
