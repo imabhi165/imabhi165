@@ -1,57 +1,118 @@
-<div align="center">
+<!-- <div align="center">
 <!--   <img width="100%" height="50%" src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=1200&q=80" alt="Cloud Banner"/> -->
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1200&color=00B4D8&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Welcome+to+My+GitHub+Profile+%F0%9F%8C%90;Cloud+Engineer+Aspirant+%7C+Open+Source+Contributor;Building+Reliable+Cloud+Solutions+with+DevOps+%26+AI" alt="Typing SVG" />
-</div>
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1200&color=00B4D8&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Welcome+to+My+GitHub+Profile+%F0%9F%8C%90;Cloud+Engineer+Aspirant+%7C+Open+Source+Contributor;Building+Reliable+Cloud+Solutions+with+DevOps+%26+AI" alt="Typing SVG" /> -->
+<!-- </div> -->
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=950&height=120&lines=%3E+whoami;Abhishek+Kumar;Software+Engineer;Embedded+Systems+%7C+C%23+%7C+Java;Linux+%7C+Docker+%7C+System+Design;Building+Production-Grade+Software" />
+
+</div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=imabhi165&label=Profile%20Views&color=00B4D8&style=flat" alt="Profile Views" />
 </div>
-
 <h2 align="center">About Me 👨‍💻</h2>
 
 <div align="center">
-  <p><strong>B.Tech Final Year | Electronics System Engineering @ NIELIT</strong></p>
-  <p><strong>Software Intern @ Avench System Pvt Ltd, Bengaluru</strong></p>
-  <p><strong>Cloud, DevOps & AI Enthusiast | Open Source Contributor</strong></p>
+  <h3>Software Engineer | Embedded Systems | Desktop Applications | Backend Engineering</h3>
+
+  <p>
+    <strong>Software Engineer @ Avench Systems Pvt. Ltd., Bengaluru</strong>
+  </p>
+
+  <p>
+    <strong>B.Tech in Electronics System Engineering • 2026 Graduate</strong>
+  </p>
+
+  <p>
+    Passionate about building reliable software, scalable systems, and solving real-world engineering problems.
+  </p>
 </div>
 
 <div align="center">
-  <img align="right" alt="Cloud Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="320"
+       src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 </div>
 
 <br>
 
-<div align="left" style="width: 50%;">
-  <p>☁️ Passionate about designing, deploying, and automating scalable cloud infrastructure</p>
-  <p>🔭 Currently working with <strong>AWS, Docker, Jenkins, Kubernetes, Terraform, Ansible</strong></p>
-  <p>🌱 Learning advanced cloud-native DevOps tools and SRE practices</p>
-  <p>🚀 Major Project: <strong>Solar Power Prediction using Machine Learning</strong></p>
-  <p>🤝 Looking to collaborate on innovative open-source cloud, automation, and AI projects</p>
-  <p>💬 Let's talk about <strong>Linux, CI/CD, GitOps, Infrastructure as Code, Monitoring, Cloud Security</strong></p>
-  <p>⚡ Fun fact: I love building solutions that scale and automate themselves!</p>
+<div align="left">
+
+### 🚀 What I'm Working On
+
+- 💼 Software Engineer developing Windows desktop applications using **C# and Windows Forms**
+- ⚙️ Working on **Embedded Linux** applications written in **Embedded C**
+- 🌐 Developing networking software using **libwebsockets** for real-time client-server communication
+- 🔐 Improving software quality through **MISRA compliance**, **CWE remediation**, and **Static Analysis (PC-lint)**
+- 🐳 Working with **Docker**, **TLS/SSL**, Linux, and cybersecurity best practices
+- ☕ Currently mastering **Java**, **Spring Boot**, **System Design**, and **Data Structures & Algorithms**
+
+### 🌱 Currently Learning
+
+- 🏗️ System Design & Software Architecture
+- ☕ Java Backend Development
+- 🚀 Spring Boot & Microservices
+- 🦀 Rust for Systems Programming
+- 🔄 Concurrent Programming & Networking
+- 🌍 Open Source Contribution
+
+### 🎯 Current Goals
+
+- Build production-grade software that solves real-world problems
+- Develop a high-performance Download Manager inspired by IDM
+- Contribute to impactful open-source projects
+- Strengthen expertise in Distributed Systems and Backend Engineering
+- Transition into a Product-Based Software Company
+
+### 💬 Ask Me About
+
+- Embedded C
+- Linux
+- C#
+- Windows Forms
+- Docker
+- Git
+- Networking
+- WebSockets
+- TLS / SSL
+- Static Analysis
+- MISRA C
+- Java
+- System Design
+
+### ⚡ Fun Fact
+
+I enjoy understanding **how software works internally**—from operating systems and networking to scalable architectures—and I love turning that knowledge into real-world projects.
+
 </div>
 
 <br clear="both">
-
-## 🛠️ Cloud & DevOps Tech Stack
+# 🛠️ Tech Stack
 
 <details open>
-<summary><strong>Frontend</strong></summary>
+<summary><strong>Programming Languages</strong></summary>
 <br>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </details>
 
 <details open>
-<summary><strong>Backend</strong></summary>
+<summary><strong>Desktop Development</strong></summary>
 <br>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>Backend (Learning)</strong></summary>
+<br>
+
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
@@ -61,50 +122,58 @@
 <summary><strong>Databases</strong></summary>
 <br>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </details>
 
 <details open>
-<summary><strong>DevOps / Tools</strong></summary>
+<summary><strong>Operating Systems & Networking</strong></summary>
 <br>
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
+![TLS](https://img.shields.io/badge/TLS%2FSSL-1E88E5?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>Software Quality & Security</strong></summary>
+<br>
+
+![MISRA C](https://img.shields.io/badge/MISRA_C-0A4EAF?style=for-the-badge)
+![PC-Lint](https://img.shields.io/badge/PC--Lint-555555?style=for-the-badge)
+![Static Analysis](https://img.shields.io/badge/Static_Analysis-2E7D32?style=for-the-badge)
+![CWE](https://img.shields.io/badge/CWE-8E24AA?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-D32F2F?style=for-the-badge)
+
+</details>
+
+<details open>
+<summary><strong>Developer Tools</strong></summary>
+<br>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </details>
 
 <details open>
-<summary><strong>Languages</strong></summary>
+<summary><strong>Currently Learning</strong></summary>
 <br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-1565C0?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data_Structures_&_Algorithms-FF9800?style=for-the-badge)
+![Rust](https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rust)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=for-the-badge&logo=spring-boot)
+![Open Source](https://img.shields.io/badge/Open_Source-3DDC84?style=for-the-badge)
 
 </details>
-
-<details open>
-<summary><strong>Cloud & Hosting</strong></summary>
-<br>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-</details>
-
 
 ## GitHub Stats
 
