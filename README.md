@@ -57,15 +57,12 @@
 - 🌍 Open Source Contribution
 
 ### 🎯 Current Goals
-
 - Build production-grade software that solves real-world problems
 - Develop a high-performance Download Manager inspired by IDM
 - Contribute to impactful open-source projects
 - Strengthen expertise in Distributed Systems and Backend Engineering
-
 - 
 ### ⚡ Fun Fact
-
 I enjoy understanding **how software works internally**—from operating systems and networking to scalable architectures—and I love turning that knowledge into real-world projects.
 
 </div>
