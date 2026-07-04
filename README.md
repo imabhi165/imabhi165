@@ -38,38 +38,26 @@
 
 <div align="left">
 
-### 🚀 What I'm Working On
-
+###  What I'm Working On
 - 💼 Software Engineer developing Windows desktop applications using **C# and Windows Forms**
 - ⚙️ Working on **Embedded Linux** applications written in **Embedded C**
 - 🌐 Developing networking software using **libwebsockets** for real-time client-server communication
 - 🔐 Improving software quality through **MISRA compliance**, **CWE remediation**, and **Static Analysis (PC-lint)**
 - 🐳 Working with **Docker**, **TLS/SSL**, Linux, and cybersecurity best practices
-- ☕ Currently mastering **Java**, **Spring Boot**, **System Design**, and **Data Structures & Algorithms**
+- ☕ Currently mastering **Java**, **Spring Boot**, **System Design**, **Microservices Architecture** and **Data Structures & Algorithms**
 
-### 🌱 Currently Learning
-
-- 🏗️ System Design & Software Architecture
-- ☕ Java Backend Development
-- 🚀 Spring Boot & Microservices
-- 🦀 Rust for Systems Programming
-- 🔄 Concurrent Programming & Networking
-- 🌍 Open Source Contribution
-
-### 🎯 Current Goals
-- Build production-grade software that solves real-world problems
-- Develop a high-performance Download Manager inspired by IDM
-- Contribute to impactful open-source projects
-- Strengthen expertise in Distributed Systems and Backend Engineering
-- 
 ### ⚡ Fun Fact
 I enjoy understanding **how software works internally**—from operating systems and networking to scalable architectures—and I love turning that knowledge into real-world projects.
-
 </div>
 
-<br clear="both">
-# 🛠️ Tech Stack
+## GitHub Stats
 
+<div align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imabhi165&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhi165&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=imabhi165&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
+</div>
+<br clear="both">
 <details open>
 <summary><strong>Programming Languages</strong></summary>
 <br>
@@ -155,15 +143,6 @@ I enjoy understanding **how software works internally**—from operating systems
 ![Open Source](https://img.shields.io/badge/Open_Source-3DDC84?style=for-the-badge)
 
 </details>
-
-## GitHub Stats
-
-<div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imabhi165&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhi165&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=imabhi165&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
-</div>
-
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
