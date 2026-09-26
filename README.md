@@ -1,162 +1,193 @@
-<!-- <div align="center">
-<!--   <img width="100%" height="50%" src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?fit=crop&w=1200&q=80" alt="Cloud Banner"/> -->
-  <br>
-  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1200&color=00B4D8&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Welcome+to+My+GitHub+Profile+%F0%9F%8C%90;Cloud+Engineer+Aspirant+%7C+Open+Source+Contributor;Building+Reliable+Cloud+Solutions+with+DevOps+%26+AI" alt="Typing SVG" /> -->
-<!-- </div> -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=950&height=120&lines=%3E+whoami;Abhishek+Kumar;Software+Engineer;Embedded+Systems+%7C+C%23+%7C+Java;Linux+%7C+Docker+%7C+System+Design;Building+Production-Grade+Software" />
+# `> whoami`
+
+## Abhishek Kumar
+
+**Software Engineer · Systems · Backend · Linux**
+
+I like understanding **what happens under the hood**
+and building things that actually work.
+
+`C` · `C#` · `Java` · `Linux` · `Docker` · `Embedded Systems`
+
+<br>
+
+<a href="https://github.com/imabhi165">
+<img src="https://img.shields.io/badge/GitHub-imabhi165-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/imabhi165/">
+<img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=imabhi165&label=Profile%20Views&color=00B4D8&style=flat" alt="Profile Views" />
-</div>
-<h2 align="center">About Me 👨‍💻</h2>
 
-<div align="center">
-  <h3>Software Engineer | Embedded Systems | Desktop Applications | Backend Engineering</h3>
+---
 
-  <p>
-    <strong>Software Engineer @ Avench Systems Pvt. Ltd., Bengaluru</strong>
-  </p>
+### `$ cat about.txt`
 
-  <p>
-    <strong>B.Tech in Electronics System Engineering • 2026 Graduate</strong>
-  </p>
+```text
+Software Engineer @ Avench Systems
+B.Tech — Electronics System Engineering, 2026
 
-  <p>
-    Passionate about building reliable software, scalable systems, and solving real-world engineering problems.
-  </p>
-</div>
+Currently working with:
+  → Embedded Linux
+  → Embedded C
+  → C# / WinForms
+  → Networking & system-level software
+  → Software quality & static analysis
 
-<div align="center">
-  <img align="right" alt="Coding" width="320"
-       src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</div>
+Currently exploring:
+  → Java
+  → Spring Boot
+  → System Design
+  → DSA
+  → Backend Engineering
+```
 
-<br>
+---
 
-<div align="left">
+### `$ ./experience`
 
-###  What I'm Working On
-- 💼 Software Engineer developing Windows desktop applications using **C# and Windows Forms**
-- ⚙️ Working on **Embedded Linux** applications written in **Embedded C**
-- 🌐 Developing networking software using **libwebsockets** for real-time client-server communication
-- 🔐 Improving software quality through **MISRA compliance**, **CWE remediation**, and **Static Analysis (PC-lint)**
-- 🐳 Working with **Docker**, **TLS/SSL**, Linux, and cybersecurity best practices
-- ☕ Currently mastering **Java**, **Spring Boot**, **System Design**, **Microservices Architecture** and **Data Structures & Algorithms**
+**Embedded Systems**
 
-### ⚡ Fun Fact
-I enjoy understanding **how software works internally**—from operating systems and networking to scalable architectures—and I love turning that knowledge into real-world projects.
-</div>
+Building and debugging software for Linux-based embedded systems.
 
-## GitHub Stats
+`Embedded C` `Linux` `CAN/CANopen` `Networking`
 
-<div align="center">
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imabhi165&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhi165&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=imabhi165&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="160"/>
-</div>
-<br clear="both">
-<details open>
-<summary><strong>Programming Languages</strong></summary>
-<br>
+**Desktop Applications**
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+Developing Windows applications and UI workflows using C# and WinForms.
 
-</details>
+`C#` `.NET` `WinForms` `Visual Studio`
 
-<details open>
-<summary><strong>Desktop Development</strong></summary>
-<br>
+**Software Quality**
 
-![Windows Forms](https://img.shields.io/badge/Windows_Forms-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio_2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+Working with static analysis and secure coding practices to improve reliability across embedded projects.
 
-</details>
+`MISRA C` `CWE` `PC-Lint` `CI`
 
-<details open>
-<summary><strong>Backend (Learning)</strong></summary>
-<br>
+**Security & Infrastructure**
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+Working with certificates, HTTPS/TLS, Docker and Linux-based environments.
 
-</details>
+`TLS` `OpenSSL` `Docker` `Linux`
 
-<details open>
-<summary><strong>Databases</strong></summary>
-<br>
+---
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### `$ cat interests.txt`
 
-</details>
+```text
+systems/
+backend/
+linux/
+networking/
+distributed-systems/
+developer-tools/
+open-source/
+```
 
-<details open>
-<summary><strong>Operating Systems & Networking</strong></summary>
-<br>
+I enjoy going one layer deeper.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge)
-![TLS](https://img.shields.io/badge/TLS%2FSSL-1E88E5?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Not just:
 
-</details>
+> "How do I use it?"
 
-<details open>
-<summary><strong>Software Quality & Security</strong></summary>
-<br>
+But:
 
-![MISRA C](https://img.shields.io/badge/MISRA_C-0A4EAF?style=for-the-badge)
-![PC-Lint](https://img.shields.io/badge/PC--Lint-555555?style=for-the-badge)
-![Static Analysis](https://img.shields.io/badge/Static_Analysis-2E7D32?style=for-the-badge)
-![CWE](https://img.shields.io/badge/CWE-8E24AA?style=for-the-badge)
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-D32F2F?style=for-the-badge)
+> "How does it actually work?"
 
-</details>
+---
 
-<details open>
-<summary><strong>Developer Tools</strong></summary>
-<br>
+### `$ git status`
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+```diff
++ Learning Java & Spring Boot
++ Practicing Data Structures & Algorithms
++ Studying System Design
++ Exploring Open Source
++ Building backend projects
+~ Improving every day
+```
 
-</details>
+---
 
-<details open>
-<summary><strong>Currently Learning</strong></summary>
-<br>
-
-![System Design](https://img.shields.io/badge/System_Design-1565C0?style=for-the-badge)
-![Data Structures](https://img.shields.io/badge/Data_Structures_&_Algorithms-FF9800?style=for-the-badge)
-![Rust](https://img.shields.io/badge/Rust-Learning-000000?style=for-the-badge&logo=rust)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=for-the-badge&logo=spring-boot)
-![Open Source](https://img.shields.io/badge/Open_Source-3DDC84?style=for-the-badge)
-
-</details>
-<h2 align="center">Connect With Me</h2>
-
-<p align="center">
-  <a href="mailto:imabhi165@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/imabhi165/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/imabhi165" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+## `tech_stack`
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+### Languages
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+
+### Backend & Databases
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![REST](https://img.shields.io/badge/REST-02569B?style=flat-square)
+
+### Systems & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square)
+
+</div>
+
+---
+
+## `stats`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imabhi165&theme=tokyonight&hide_border=true" width="90%"/>
+
+<br><br>
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhi165&layout=compact&theme=tokyonight&hide_border=true" height="160"/> -->
+<img
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=imabhi165&layout=compact&langs_count=8&theme=tokyonight"
+  height="160"
+  alt="Top Languages"
+/>
+/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=imabhi165&theme=tokyonight&hide_border=true" height="160"/>
+
+</div>
+
+---
+
+## `> ping me`
+
+<div align="center">
+
+**If you're into systems, backend engineering, Linux or open source — let's talk.**
+
+<br>
+
+<a href="mailto:imabhi165@gmail.com">
+<img src="https://img.shields.io/badge/email-imabhi165%40gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+```text
+Build things.
+Break things.
+Understand why.
+Build them better.
+```
+
 </div>
