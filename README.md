@@ -2,7 +2,7 @@
 
 # Abhishek Kumar
 
-**Software Engineer | Go Backend Developer**
+**Software Engineer @Avench System | Go Backend Developer**
 
 Building backend APIs with Go. Interested in clean code, databases, networking, and Linux systems.
 
@@ -39,9 +39,9 @@ Building backend APIs with Go. Interested in clean code, databases, networking, 
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imabhi165&theme=tokyonight" width="95%" alt="GitHub profile summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imabhi165&theme=tokyonight" width="65%" alt="GitHub profile summary"/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=imabhi165&layout=compact&theme=tokyonight" height="160" alt="Top languages"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=imabhi165&layout=compact&theme=tokyonight" height="170" alt="Top languages"/>
 
 </div>
 
