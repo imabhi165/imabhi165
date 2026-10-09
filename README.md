@@ -9,7 +9,7 @@
 I like understanding **what happens under the hood**
 and building things that actually work.
 
-`C` · `C#` · `Java` · `Linux` · `Docker` · `Embedded Systems`
+`Go` . `C` · `C#` · `Java` · `Linux` · `Docker` · `Embedded Systems`
 
 <br>
 
@@ -20,7 +20,7 @@ and building things that actually work.
 <img src="https://img.shields.io/badge/LinkedIn-Abhishek_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<!-- </div>
 
 ---
 
@@ -114,7 +114,7 @@ But:
 
 ## `tech_stack`
 
-<div align="center">
+<div align="center"> -->
 
 ### Languages
 
